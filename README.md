@@ -34,6 +34,17 @@ You will be evaluated on your ability to organize your work, successfully ship a
 
 You can use any tools or technologies to achieve this so long as the final product is a live, on-the-web product people can use. If you save time by using powerful, off-the-shelf technologies, that should be reflected in more customer feedback, a more refined product, and a better presentation.
 
+These are the questions we'll be using to evaluate your project:
+
+1. Did you get consistent feedback on the the following throughout the project?
+   - The design and overall experience of the site
+   - The pitch / presentation
+   - The structure of your database (if using a backend)
+   - The structure of your HTML, CSS, and JavaScript
+1. Did your project connect to the broader cultural moment / concerns?
+1. Would a stranger in your project's intended audience be able to use your project without help from you?
+1. Was your presentaiton clear, engaging, and paced well?
+
 ## Milestones + Rough Drafts
 
 You will be working on the project and the presentation in parallel. Your aim is to get feedback early and often, which means you need to do more than just *describe* your plans.
